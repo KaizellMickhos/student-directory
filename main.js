@@ -19,7 +19,12 @@ const students = [
     github: "https://github.com/johndoe",
     linkedin: "https://linkedin.com/in/johndoe",
     facebook: "https://facebook.com/johndoe"
-  }, "Business", "JD")
+  }, "Business", "JD"),
+  createStudent("Daven Gersaniva", "https://via.placeholder.com/200", "Project Manager.", {
+    github: "https://github.com/davengersaniva",
+    linkedin: "https://linkedin.com/in/davengersaniva",
+    facebook: "https://facebook.com/davengersaniva"
+  }, "Business", "JG")
 ];
 
 // Generate social icons
