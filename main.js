@@ -20,7 +20,7 @@ const students = [
     linkedin: "https://linkedin.com/in/johndoe",
     facebook: "https://facebook.com/johndoe"
   }, "Business", "JD"),
-  createStudent("Resel Ann Bialen", "https://via.placeholder.com/200", "Computer Science student passionate about web development and AI.", {
+  createStudent("ReselAnnBialen", "https://via.placeholder.com/200", "Computer Science student passionate about web development and AI.", {
     github: "https://github.com/ReselAnnBialen",
     linkedin: "https://linkedin.com/in/ReselAnnBialen",
   }, "Computer Science Student", "RAB")
