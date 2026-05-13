@@ -26,7 +26,7 @@ const students = [
   }, "Engineering", "MJ"),
   createStudent("Pxdran", "https://via.placeholder.com/200","Computer Science student passionate about web development and AI.", {
     github: "https://github.com/pxdran",
-    facebook: "https://facebook.com/endrianmaglasang"
+    facebook: "https://facebook.com/endrian.maglasang.2025"
   }, "Frontend", "PX")
 ];
 
