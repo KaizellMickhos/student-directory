@@ -24,6 +24,12 @@ const students = [
     github: "https://github.com/nujkram",
     linkedin: "https://linkedin.com/in/nujkram",
   }, "Engineering", "MJ")
+  createStudent("Jomel Belgira", "https://via.placeholder.com/200", "Computer Science student passionate about web development and AI.", {
+  github: "https://github.com/yourusername",
+  linkedin: "https://linkedin.com/in/jomelbelgira",
+  facebook: "https://facebook.com/Jomel Belgira"
+})
+
 ];
 
 // Generate social icons
