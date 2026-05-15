@@ -20,10 +20,10 @@ const students = [
     linkedin: "https://linkedin.com/in/johndoe",
     facebook: "https://facebook.com/johndoe"
   }, "Business", "JD"),
-  createStudent("Mark Jun Gersaniva", "https://via.placeholder.com/200", "Aspiring software engineer with a passion for open-source projects and community building.", {
+  createStudent("Hanna Rose Aspera", "https://via.placeholder.com/200", "Aspiring software engineer with a passion for open-source projects and community building.", {
     github: "https://github.com/nujkram",
     linkedin: "https://linkedin.com/in/nujkram",
-  }, "Engineering", "MJ")
+  }, "Engineering", "HRA")
 ];
 
 // Generate social icons
