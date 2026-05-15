@@ -23,7 +23,11 @@ const students = [
   createStudent("Mark Jun Gersaniva", "https://via.placeholder.com/200", "Aspiring software engineer with a passion for open-source projects and community building.", {
     github: "https://github.com/nujkram",
     linkedin: "https://linkedin.com/in/nujkram",
-  }, "Engineering", "MJ")
+  }, "Engineering", "MJ"),
+    createStudent("Egiemark Dumolong", "https://via.placeholder.com/200", "Aspiring software engineer with a passion for open-source projects and community building.", {
+    github: "https://github.com/DUMOLONG-EGIEMARK-",
+    facebook: "https://facebook.com/egiemark.dumolong",
+  }, "Programmer", "EM")
 ];
 
 // Generate social icons
