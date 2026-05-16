@@ -27,7 +27,7 @@ const students = [
   createStudent("Elmowen Montaño", "https://via.placeholder.com/200", "Aspiring software engineer with a passion for open-source projects and community building.", {
   github: "https://github.com/Elmowen17",
   facebook: "https://facebook.com/phil.pacs17",
-  }, "Programmer", "EM")
+  }, "Programmer", "EM"),
 ];
 
 // Generate social icons
