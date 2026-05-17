@@ -23,7 +23,28 @@ const students = [
   createStudent("Rea Jane Baulite", "https://via.placeholder.com/200", "Computer Science Student passionate about web development and Programming.", {
     github: "https://github.com/ReaJaneBaulite",
     linkedin: "https://linkedin.com/in/ReaJaneBaulite",
-  }, "Computer Science Student", "RJB")
+  }, "Computer Science Student", "RJB"),
+  createStudent("Joel Banas Jr", "https://via.placeholder.com/200", "Computer Science student passionate about web development and Programming.", {
+    github: "https://github.com/JoelBanasJr",
+    linkedin: "https://linkedin.com/in/JoelBanasJr",
+  }, "Computer Science Student", "JB"),
+  createStudent("Mark Jun Gersaniva", "https://via.placeholder.com/200", "Aspiring software engineer with a passion for open-source projects and community building.", {
+    github: "https://github.com/nujkram",
+    linkedin: "https://linkedin.com/in/nujkram",
+  }, "Engineering", "MJ"),
+  createStudent("Pxdran", "https://via.placeholder.com/200","Computer Science student passionate about web development and AI.", {
+    github: "https://github.com/pxdran",
+    facebook: "https://facebook.com/endrian.maglasang.2025"
+  }, "Frontend", "PX"),
+ createStudent("Jdaromin", "https://via.placeholder.com/200", "Aspiring software engineer with a passion for web development, Java programming, and open-source projects.", {
+    github: "https://github.com/Jdaromin",
+    linkedin: "https://linkedin.com/in/jdaromin",
+}, "Computer Science", "JD"),
+  createStudent("Mike Aldren Dizon", "https://via.placeholder.com/200", "Creative designer specializing in branding and digital media with a keen eye for aesthetics.", {
+    github: "https://github.com/mikealdrendizon",
+    linkedin: "https://linkedin.com/in/mikealdrendizon",
+    facebook: "https://facebook.com/mikealdrendizon"
+  }, "Design", "MD"),
 ];
 
 // Generate social icons
