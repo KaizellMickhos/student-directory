@@ -40,6 +40,10 @@ const students = [
     github: "https://github.com/nujkram",
     linkedin: "https://linkedin.com/in/nujkram",
   }, "Engineering", "MJ"),
+  createStudent("Joshua Arcos", "https://via.placeholder.com/200", "Computer Science student with a focus on cybersecurity and ethical hacking.", {
+    github: "https://github.com/joshuaarcos",
+    linkedin: "https://linkedin.com/in/joshuaarcos",
+  }, "Engineering", "JA")
   createStudent("Pxdran", "https://via.placeholder.com/200","Computer Science student passionate about web development and AI.", {
     github: "https://github.com/pxdran",
     facebook: "https://facebook.com/endrian.maglasang.2025"
