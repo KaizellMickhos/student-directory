@@ -44,15 +44,21 @@ const students = [
     github: "https://github.com/pxdran",
     facebook: "https://facebook.com/endrian.maglasang.2025"
   }, "Frontend", "PX"),
- createStudent("Jdaromin", "https://via.placeholder.com/200", "Aspiring software engineer with a passion for web development, Java programming, and open-source projects.", {
+  createStudent("Jdaromin", "https://via.placeholder.com/200", "Aspiring software engineer with a passion for web development, Java programming, and open-source projects.", {
     github: "https://github.com/Jdaromin",
     linkedin: "https://linkedin.com/in/jdaromin",
 }, "Computer Science", "JD"),
-  createStudent("Mike Aldren Dizon", "https://via.placeholder.com/200", "Creative designer specializing in branding and digital media with a keen eye for aesthetics.", {
+  ("Mike Aldren Dizon", "https://via.placeholder.com/200", "Creative designer specializing in branding and digital media with a keen eye for aesthetics.", {
     github: "https://github.com/mikealdrendizon",
     linkedin: "https://linkedin.com/in/mikealdrendizon",
     facebook: "https://facebook.com/mikealdrendizon"
   }, "Design", "MD"),
+ 
+  createStudent("Jayboy Bagonoc", "https://via.placeholder.com/200", "Creative designer specializing in branding and digital media with a keen eye for aesthetics.", {
+    github: "https://github.com/JayboyBagonoc",
+    linkedin: "https://linkedin.com/JayboyBagonoc",
+    facebook: "https://facebook.com/JayboyBagonoc"
+  }, "Designer", "JB"),
 ];
 
 // Generate social icons
