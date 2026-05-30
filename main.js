@@ -53,6 +53,10 @@ const students = [
     linkedin: "https://linkedin.com/in/mikealdrendizon",
     facebook: "https://facebook.com/mikealdrendizon"
   }, "Design", "MD"),
+  createStudent("Janet Ladio", "https://via.placeholder.com/200", "Creative designer specializing in branding and digital media with a keen eye for aesthetics.", {
+    github: "https://github.com/ladiojanet033",
+    facebook: "https://facebook.com/janet.dump.356961"
+  }, "Design", "MD")
 ];
 
 // Generate social icons
