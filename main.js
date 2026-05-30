@@ -53,6 +53,10 @@ const students = [
     linkedin: "https://linkedin.com/in/mikealdrendizon",
     facebook: "https://facebook.com/mikealdrendizon"
   }, "Design", "MD"),
+  createStudent("karen Angel Besinio", "https://via.placeholder.com/200", "Computer Science student passionate about web development and Programming.", {
+    github: "https://github.com/karenangelbesinio",
+    linkedin: "https://linkedin.com/in/karenangelbesinio",
+  }, "Computer Science", "KAB")
 ];
 
 // Generate social icons
