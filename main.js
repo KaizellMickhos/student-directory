@@ -53,6 +53,10 @@ const students = [
     linkedin: "https://linkedin.com/in/mikealdrendizon",
     facebook: "https://facebook.com/mikealdrendizon"
   }, "Design", "MD"),
+  createStudent("Freddie Prince Deocampo Lariza", "https://via.placeholder.com/200", "Creative designer specializing in branding and digital media with a keen eye for aesthetics.", {
+    github: "https://github.com/freddprincelariza",
+    facebook: "https://facebook.com/freddieprince.lariza"
+  }, "Design", "FP"),
 ];
 
 // Generate social icons
