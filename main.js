@@ -53,6 +53,11 @@ const students = [
     linkedin: "https://linkedin.com/in/mikealdrendizon",
     facebook: "https://facebook.com/mikealdrendizon"
   }, "Design", "MD"),
+  createStudent("Francis Capote", "https://via.placeholder.com/200", "Creative designer specializing in branding and digital media with a keen eye for aesthetics.", {
+    github: "https://github.com/FrancisCapote",
+    linkedin: "https://linkedin.com/in/FrancisCapote",
+    facebook: "https://facebook.com/FrancisCapote"
+  }, "Computer Science Student", "FC"),
 ];
 
 // Generate social icons
