@@ -47,12 +47,17 @@ const students = [
  createStudent("Jdaromin", "https://via.placeholder.com/200", "Aspiring software engineer with a passion for web development, Java programming, and open-source projects.", {
     github: "https://github.com/Jdaromin",
     linkedin: "https://linkedin.com/in/jdaromin",
-}, "Computer Science", "JD"),
+  }, "Computer Science", "JD"),
   createStudent("Mike Aldren Dizon", "https://via.placeholder.com/200", "Creative designer specializing in branding and digital media with a keen eye for aesthetics.", {
     github: "https://github.com/mikealdrendizon",
     linkedin: "https://linkedin.com/in/mikealdrendizon",
     facebook: "https://facebook.com/mikealdrendizon"
   }, "Design", "MD"),
+  createStudent("Gian A. Balasa", "https://via.placeholder.com/200", "Creative designer specializing in branding and digital media with a keen eye for aesthetics.", {
+    github: "https://github.com/gianbalasa123",
+    linkedin: "https://linkedin.com/in/gianbalasa",
+    facebook: "https://facebook.com/gianbalasa"
+  }, "Design", "GB"),
 ];
 
 // Generate social icons
