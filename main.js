@@ -19,7 +19,11 @@ const students = [
     github: "https://github.com/johndoe",
     linkedin: "https://linkedin.com/in/johndoe",
     facebook: "https://facebook.com/johndoe"
-  }, "Business", "JD"),
+  }, "Business", "JD",
+  createStudent("Lilia Morales", "https>//via.placeholder.com/200", "Computer Science student passionate about Programming.", {
+    github: "https://github.com/moraleslilia23-lang",
+    facebook: "https://facebook.com/Fabiolamorales",
+  }, "Computer Science Student", "LM"),
   createStudent("Decemarie Acupinpin", "https://via.placeholder.com/200", "Computer Science student passionate about web development and Programming.", {
     github: "https://github.com/DecemarieAcupinpin",
     linkedin: "https://linkedin.com/in/DecemarieAcupinpin",
